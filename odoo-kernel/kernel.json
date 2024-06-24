@@ -1,0 +1,8 @@
+{
+ "argv": ["python",
+          "odoo-kernel.py", "-f",
+          "{connection_file}"],
+ "display_name": "Odoo Kernel",
+ "name": "Odoo",
+ "language": "python"
+}
